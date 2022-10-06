@@ -1,4 +1,3 @@
-import java.time.Period;
 
 public class App {
     public static void main(String[] args) throws Exception {
@@ -19,7 +18,4 @@ public class App {
         System.out.println("Total Geral do "+ Nome + " R$ " + total);
         System.out.println("");
     }
-
-
-
 }
